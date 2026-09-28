@@ -8,7 +8,10 @@
   Building clean, functional, and user-focused digital experiences.
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Information+Systems+Graduate;Always+Learning+%26+Building" />
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Information+Systems+Graduate;Always+Learning+%26+Building"
+  alt="Typing SVG"
+/>
 
 <br><br>
 
@@ -18,18 +21,29 @@
 
 <br>
 
-> **"Only I can define my limits."**
+> **"Build. Learn. Improve. Repeat."**
 
 <br>
 
-<a href="mailto:malasfoor04@gmail.com">
-  <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:hussain9371@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
-<a href="https://www.linkedin.com/in/mohamed-alasfoor/">
-  <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<a href="https://www.linkedin.com/in/hussain-khalil-943979275/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
-<a href="https://discordid.netlify.app/?id=667095807324848191">
-  <img src="https://img.shields.io/badge/Discord-181717?style=for-the-badge&logo=discord&logoColor=white" />
+
+<a href="https://discord.com/users/_uoo" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Discord-181717?style=for-the-badge&logo=discord&logoColor=white"
+    alt="Discord"
+  />
 </a>
 
 </div>
@@ -42,11 +56,19 @@
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=go,php,java,cs,py,c,js,html,css" />
+<img
+  src="https://skillicons.dev/icons?i=go,php,java,cs,py,c,js,html,css"
+  alt="Languages"
+/>
+
+<br><br>
 
 ### Technologies & Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,aws,linux,github,figma,arduino,wordpress,vscode,visualstudio,idea" />
+<img
+  src="https://skillicons.dev/icons?i=mysql,aws,linux,github,figma,arduino,wordpress,vscode,visualstudio,idea"
+  alt="Technologies and Tools"
+/>
 
 </div>
 
@@ -56,13 +78,25 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Alasfoor&show_icons=true&theme=github_dark&hide_border=true" />
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"
+  alt="GitHub Stats"
+/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Alasfoor&theme=github-dark-blue&hide_border=true" />
+<img
+  width="49%"
+  src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 <br><br>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Alasfoor&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img
+  width="45%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+  alt="Top Languages"
+/>
 
 </div>
 
@@ -72,6 +106,9 @@
 
 ### 💡 Code · Learn · Build · Improve
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mohamed-Alasfoor&style=for-the-badge&color=blueviolet)
+<img
+  src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet"
+  alt="Profile Views"
+/>
 
 </div>
