@@ -72,23 +72,9 @@
 <div align="center">
 
 <img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"
-  alt="GitHub Stats"
-/>
-
-<img
-  width="49%"
+  width="55%"
   src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true"
   alt="GitHub Streak"
-/>
-
-<br><br>
-
-<img
-  width="45%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-  alt="Top Languages"
 />
 
 </div>
@@ -98,10 +84,5 @@
 <div align="center">
 
 ### 💡 Code · Learn · Build · Improve
-
-<img
-  src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet"
-  alt="Profile Views"
-/>
 
 </div>
