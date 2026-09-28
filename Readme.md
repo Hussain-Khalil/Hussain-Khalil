@@ -17,15 +17,15 @@
 
 🎓 B.Sc. in Information Systems — **UOB**  
 💻 Full-Stack Developer — **Reboot01**  
-🚀 Interested in Web Development, Systems & UI/UX  
+🚀 Interested in Web Development, Systems & UI/UX
 
-<br>
+<br><br>
 
 > **"Build. Learn. Improve. Repeat."**
 
 <br>
 
-<a href="mailto:hussain9371@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hussain9371@gmail.com" target="_blank">
   <img
     src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email"
@@ -36,13 +36,6 @@
   <img
     src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
-  />
-</a>
-
-<a href="https://discord.com/users/_uoo" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Discord-181717?style=for-the-badge&logo=discord&logoColor=white"
-    alt="Discord"
   />
 </a>
 
